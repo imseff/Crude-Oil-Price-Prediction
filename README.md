@@ -43,7 +43,7 @@ Crude-Oil-Price-Prediction/
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** Kaggle — Crude Oil Stock Dataset 2000–2024
 - **Link:** https://www.kaggle.com/datasets/mhassansaboor/crude-oil-stock-dataset-2000-2024
 - **Records:** 6,073 daily trading records
